@@ -1,1 +1,2 @@
-# Pencatatan Barang Gudang or Inventory Management with use C languages
+# Inventory Management with use C languages
+How to execute the program in terminal : PencatatanGudang.c -o PencatatanGudang
